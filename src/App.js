@@ -10,7 +10,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <p>
-          Hey, check this out!
+          Hey, check this out! AWS Amplify will automatically update if you push your changes to GitHub!
         </p>
         <a
           className="App-link"
